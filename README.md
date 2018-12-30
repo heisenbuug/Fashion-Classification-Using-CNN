@@ -8,3 +8,5 @@ Used CNN on fashion mnist dataset to classify what all fashion accessories are p
 * Keras
 * Tensorflow
 * MNIST Dataset
+
+DATASET LINK: https://www.kaggle.com/zalando-research/fashionmnist
